@@ -18,6 +18,12 @@ Together, the two theories are positioned as complementary layers within a conti
 - AI Operations Theory
 - Common
 
+## Current Status
+
+English PDF editions are not yet available.
+
+The Japanese editions are currently the canonical versions of both theories.
+
 ## Language Versions
 [Japanese Version](https://github.com/j13343sh/cognitive-infrastructure-jp)
 
