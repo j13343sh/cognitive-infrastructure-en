@@ -18,7 +18,7 @@ Together, the two theories are positioned as complementary layers within a conti
 - AI Operations Theory
 - Common
 
-## Reciprocal Links
+## Language Versions
 [Japanese Version](https://github.com/j13343sh/cognitive-infrastructure-jp)
 
 
