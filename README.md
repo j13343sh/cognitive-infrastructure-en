@@ -2,7 +2,7 @@
 
 Research archive for Cognitive Infrastructure Theory and AI Operations Theory.
 
-![Relationship Between Cognitive Infrastructure Theory and AI Operations Theory](common/figures/relationship.png)
+![Relationship Between Cognitive Infrastructure Theory and AI Operations Theory](common/figures/CIT-AOT-Relationship.png)
 
 ## One-line Summary
 
