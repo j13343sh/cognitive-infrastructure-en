@@ -18,6 +18,10 @@ Together, the two theories are positioned as complementary layers within a conti
 - AI Operations Theory
 - Common
 
+## Reciprocal Links
+[Japanese Version](https://github.com/j13343sh/cognitive-infrastructure-jp)
+
+
 ## Origin of Research
 
 Cognitive Infrastructure Theory and AI Operations Theory originated from observations of inheritance, knowledge management, and operational structures conducted through the prior research project:
