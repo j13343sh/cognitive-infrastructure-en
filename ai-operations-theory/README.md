@@ -2,7 +2,7 @@
 
 Research archive for the operation, maintenance, and inheritance of cognitive activities involving humans and AI.
 
-![AI Operations Theory Operational Cycle Model](figures/AI-Operations-Theory-Operational-Cycle-Model.png)
+![AI Operations Theory Operational Cycle Model](figures/AI-Operations-Framework.png)
 
 ## Overview
 
