@@ -125,6 +125,14 @@ Its value also included challenging plans.
 
 In several situations, the objection itself proved more valuable than the proposed alternative.
 
+Strategy disagreement did not emerge from emotional conflict.
+
+It emerged from differences in optimization criteria.
+
+Both positions were internally rational.
+
+The disagreement emerged because they optimized for different objectives.
+
 ---
 
 ## Decision Context
