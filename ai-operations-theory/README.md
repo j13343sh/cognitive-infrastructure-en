@@ -42,6 +42,7 @@ The Japanese edition is currently the canonical version of AI Operations Theory.
 ## Questions Explored
 
 * Why can hallucinations never be completely eliminated?
+* How should humans and AI work with hallucinations?
 * Why does inheritance fail?
 * How is Decision Context lost?
 * What should a Repository preserve?
