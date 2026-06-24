@@ -1,281 +1,164 @@
-# CS-004: Human Headquarters
+# CS-004 Human Headquarters
 
-## Summary
+## Situation
 
-This case study documents an observation repeatedly made during the operation of AI-assisted projects.
+AI Operations Theory was developed through collaboration between humans and AI.
 
-As AI capabilities improved, many operational tasks became increasingly automated.
+As the Repository expanded, AI became increasingly capable of:
 
-Observation could be delegated.
+* Generating observations
+* Comparing alternatives
+* Summarizing discussions
+* Producing documentation
+* Proposing operational improvements
 
-Analysis could be delegated.
+This raised an important question:
 
-Documentation could be delegated.
-
-Even organizational functions could be partially delegated.
-
-Yet one role consistently remained.
-
-Human Headquarters.
-
-The observation was not that AI lacked intelligence.
-
-The observation was that project continuity required a final authority for priority selection.
+> Could Human Headquarters eventually be replaced?
 
 ---
 
-# Background
-
-The projects explored in this repository relied heavily on AI participation.
-
-AI systems contributed to:
-
-* Observation
-* Analysis
-* Documentation
-* Repository maintenance
-* Organizational operation
-* Inheritance procedures
-
-Over time, a natural question emerged.
-
-If AI could perform most operational activities, why was a human still necessary?
-
-This question became increasingly important as project complexity increased.
-
----
-
-# Initial Assumption
-
-A common assumption appeared repeatedly.
-
-More capable AI
-→ Less human involvement
-
-Eventually:
-
-AI
-→ Autonomous operation
-
-At first glance this seemed reasonable.
-
-Many operational activities had already become highly automated.
-
-Reality suggested a different outcome.
-
----
-
-# Reality Observed
-
-## Observation 1
+## Problem
 
 AI could generate options.
 
-AI repeatedly demonstrated the ability to:
+AI could generate arguments.
 
-* Analyze situations
-* Compare alternatives
-* Generate plans
-* Reconstruct Decision Context
-* Suggest priorities
+AI could generate recommendations.
 
-In many cases AI performance exceeded expectations.
+However, a recurring pattern emerged.
 
----
+Many decisions reached a state where:
 
-## Observation 2
+> Multiple options were reasonable.
+> Multiple priorities were valid.
+> Multiple futures were possible.
 
-AI did not own priorities.
+The problem was no longer generating possibilities.
 
-The critical operational question was often not:
-
-"What is possible?"
-
-but:
-
-"What should be done now?"
-
-This distinction proved important.
-
-AI could propose multiple reasonable actions.
-
-Someone still needed to choose between them.
+The problem was selecting one.
 
 ---
 
-## Observation 3
+## Decision
 
-Project resources were always limited.
+The project retained Human Headquarters as the final decision authority.
 
-Time was limited.
+AI continued to support:
 
-Attention was limited.
+* Analysis
+* Comparison
+* Documentation
+* Review
+* Question generation
 
-Energy was limited.
-
-Multiple valuable activities often competed simultaneously.
-
-Examples included:
-
-* Writing theory
-* Improving diagrams
-* Updating repositories
-* Preparing publication materials
-* Performing inheritance work
-
-All could be justified.
-
-Not all could be done.
-
----
-
-# Case Example
-
-During the publication phase, several activities appeared important at the same time.
-
-Examples included:
-
-* Additional theory refinement
-* README improvement
-* Diagram creation
-* GitHub preparation
-* English translation
-
-AI could explain the benefits of each activity.
-
-AI could compare trade-offs.
-
-However, AI could not resolve the final question.
-
-Which activity should receive priority now?
-
-The final decision consistently belonged to Human Headquarters.
-
----
-
-# Failure Observed
-
-A recurring failure pattern appeared.
-
-Option Generation
-→ No Final Selection
-
-This produced operational stagnation.
-
-The project accumulated possibilities without progressing toward execution.
-
-The problem was not lack of ideas.
-
-The problem was lack of commitment.
-
----
-
-# Human Headquarters
-
-Human Headquarters gradually emerged as a specific operational role.
-
-Its primary function was not intelligence.
-
-Its primary function was authority.
-
-Responsibilities included:
+Human Headquarters remained responsible for:
 
 * Priority selection
 * Scope definition
 * Resource allocation
+* Risk acceptance
 * Publication decisions
+
+---
+
+## Result
+
+Operational stability improved.
+
+Decision-making became more transparent.
+
+However, an important observation emerged.
+
+The role of Human Headquarters was not primarily knowledge ownership.
+
+The role was responsibility ownership.
+
+---
+
+## Reality
+
+Throughout the project, many situations shared a similar pattern.
+
+```text id="tuf4rj"
+Several valuable options exist
+↓
+All appear reasonable
+↓
+Resources are limited
+↓
+Not everything can be pursued
+↓
+A choice must be made
+```
+
+In these situations, AI frequently generated alternatives.
+
+Human Headquarters determined priorities.
+
+The critical question was often not:
+
+> What can be done?
+
+but:
+
+> What should be done now?
+
+---
+
+## Observation
+
+AI generated possibilities.
+
+Human Headquarters selected priorities.
+
+The bottleneck was not idea generation.
+
+The bottleneck was commitment.
+
+---
+
+## Decision Context
+
+The project gradually adopted the following understanding:
+
+> Decision-making is not only option evaluation.
+
+It also includes:
+
 * Accepting trade-offs
+* Defining priorities
+* Abandoning alternatives
+* Taking responsibility for consequences
 
-The role existed because competing priorities inevitably emerged.
-
----
-
-# Why AI Could Not Fully Replace It
-
-The limitation was not technical capability.
-
-The limitation was operational ownership.
-
-AI could evaluate alternatives.
-
-AI could model consequences.
-
-AI could explain trade-offs.
-
-But the project still required an actor capable of saying:
-
-"We will do this."
-
-and equally important:
-
-"We will not do that."
+These activities consistently remained associated with Human Headquarters.
 
 ---
 
-# Operational Consequences
+## Operational Know-how
 
-This observation changed how the project viewed AI participation.
-
-The goal was no longer:
-
-Human Replacement
-
-Instead it became:
-
-Human-Governed AI Operations
-
-The human remained responsible for final direction.
-
-AI expanded the range of possible actions.
-
-Human Headquarters selected among them.
+* Treat AI as a decision-support system rather than a decision owner.
+* Preserve reasoning generated by AI.
+* Preserve priorities selected by Human Headquarters.
+* Record why alternatives were rejected, not only why decisions were accepted.
+* Distinguish possibility generation from responsibility ownership.
 
 ---
 
-# Lessons Learned
+## Question Space
 
-## Lesson 1
-
-Generating options is not the same as selecting priorities.
-
----
-
-## Lesson 2
-
-Operational bottlenecks often occur at decision points rather than information points.
+* Can Human Headquarters be partially delegated?
+* Which decisions require responsibility ownership?
+* Can priorities be inherited?
+* How should repositories preserve rejected alternatives?
+* What distinguishes decision support from decision authority?
 
 ---
 
-## Lesson 3
+## Future Draft
 
-The final scarcity is frequently attention, not intelligence.
+Human Headquarters may be less important as a source of knowledge than as a source of commitment and responsibility.
 
----
+Future generations should continue observing whether responsibility ownership can be distributed, transferred, or reconstructed through organizational and repository mechanisms.
 
-## Lesson 4
-
-A project requires authority as well as analysis.
-
----
-
-## Lesson 5
-
-Human involvement may become more strategic as AI capability increases, not less.
-
----
-
-# Final Observation
-
-The most surprising observation was that Human Headquarters survived every increase in AI capability.
-
-The reason was simple.
-
-The project's hardest question was rarely:
-
-"What can be done?"
-
-The hardest question was:
-
-"What will be done now?"
-
-As long as priorities exist, Human Headquarters remains relevant.
+This observation remains a Current Working Hypothesis.
