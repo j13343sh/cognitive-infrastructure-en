@@ -60,8 +60,9 @@ AI Operations Theory is a framework for operating decisions, records, restartabi
 ## Repository Structure
 
 * PDF
-* Figures
-* Articles
+* gigures
+* articles
+* case-studies
 
 ## Related Research
 
