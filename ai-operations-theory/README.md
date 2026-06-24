@@ -43,6 +43,9 @@ The Japanese edition is currently the canonical version of AI Operations Theory.
 
 * Why can hallucinations never be completely eliminated?
 * How should humans and AI work with hallucinations?
+* Can hallucinations contribute to brainstorming and exploration?
+* Are there beneficial hallucinations and harmful hallucinations?
+* If so, what distinguishes one from the other?
 * Why does inheritance fail?
 * How is Decision Context lost?
 * What should a Repository preserve?
