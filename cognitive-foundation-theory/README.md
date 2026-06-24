@@ -48,8 +48,8 @@ Cognitive Infrastructure Theory is a framework for observing, organizing, and un
 ## Repository Structure
 
 * PDF
-* Figures
-* Articles
+* figures
+* articles
 
 ## Related Research
 
