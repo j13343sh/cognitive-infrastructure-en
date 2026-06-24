@@ -1,5 +1,6 @@
-CS-006: Research to Publication
-Summary
+# CS-006: Research to Publication
+
+## Summary
 
 This case study documents a transition that emerged during the development of Cognitive Infrastructure and AI Operations Theory.
 
@@ -19,7 +20,9 @@ In reality, the nature of the work had fundamentally changed.
 
 This case documents that transition and the operational consequences that followed.
 
-Background
+---
+
+# Background
 
 For a long period, the project operated primarily as a research program.
 
@@ -35,7 +38,9 @@ This mode of operation was highly productive.
 
 Research progress was often measured by the number and quality of new questions.
 
-Research Runtime
+---
+
+# Research Runtime
 
 During the research phase, the dominant pattern was:
 
@@ -46,10 +51,10 @@ The appearance of new questions was considered a success.
 
 Examples included:
 
-New observations
-New concepts
-New theoretical connections
-New case studies
+* New observations
+* New concepts
+* New theoretical connections
+* New case studies
 
 The repository evolved through continuous exploration.
 
@@ -57,7 +62,9 @@ In this environment, growth was generally positive.
 
 More questions meant more opportunities for discovery.
 
-Initial Assumption
+---
+
+# Initial Assumption
 
 When publication work began, an important assumption remained unchanged.
 
@@ -72,8 +79,11 @@ More research should produce a better result.
 
 Reality suggested otherwise.
 
-Reality Observed
-Observation 1
+---
+
+# Reality Observed
+
+## Observation 1
 
 Publication introduced different constraints.
 
@@ -87,40 +97,46 @@ A concept may be interesting without being necessary.
 
 A question may be valuable without belonging in the current publication.
 
-Observation 2
+---
+
+## Observation 2
 
 The repository was already large enough.
 
 At the time of observation, the repository contained:
 
-A complete theoretical structure
-Multiple major sections
-Supporting concepts
-Diagrams
-Glossaries
-Operational records
+* A complete theoretical structure
+* Multiple major sections
+* Supporting concepts
+* Diagrams
+* Glossaries
+* Operational records
 
 The primary limitation was no longer theory generation.
 
 The limitation was presentation.
 
-Observation 3
+---
+
+## Observation 3
 
 Navigation became more important than expansion.
 
 As publication approached, increasing effort was spent on:
 
-README design
-Glossaries
-Diagrams
-Structure refinement
-Reader guidance
+* README design
+* Glossaries
+* Diagrams
+* Structure refinement
+* Reader guidance
 
 These activities rarely generated new theory.
 
 Yet they produced substantial publication value.
 
-Discovery of Publication Runtime
+---
+
+# Discovery of Publication Runtime
 
 A critical observation emerged.
 
@@ -140,7 +156,9 @@ Question
 
 This distinction became increasingly important.
 
-Failure Observed
+---
+
+# Failure Observed
 
 A recurring failure pattern emerged.
 
@@ -158,16 +176,18 @@ Publication scope continued to grow.
 
 Completion became increasingly difficult.
 
-Never Publish Risk
+---
+
+# Never Publish Risk
 
 This failure eventually became recognizable.
 
 Typical symptoms included:
 
-One more chapter
-One more diagram
-One more concept
-One more case study
+* One more chapter
+* One more diagram
+* One more concept
+* One more case study
 
 Each addition could be justified individually.
 
@@ -177,17 +197,19 @@ The repository improved continuously.
 
 The publication never arrived.
 
-Navigation Layer
+---
+
+# Navigation Layer
 
 Another important observation appeared during this phase.
 
 The highest-value assets increasingly became:
 
-README files
-Glossaries
-Diagrams
-Introductions
-Navigation structures
+* README files
+* Glossaries
+* Diagrams
+* Introductions
+* Navigation structures
 
 These assets did not primarily increase knowledge.
 
@@ -195,7 +217,9 @@ They increased reachability.
 
 The bottleneck shifted from theory creation to reader access.
 
-Human Headquarters
+---
+
+# Human Headquarters
 
 Publication also increased the importance of priority decisions.
 
@@ -203,17 +227,19 @@ Many valuable activities remained available.
 
 Examples included:
 
-Further theory refinement
-Additional case studies
-Diagram improvement
-Translation work
-Publication preparation
+* Further theory refinement
+* Additional case studies
+* Diagram improvement
+* Translation work
+* Publication preparation
 
 The challenge was no longer identifying useful work.
 
 The challenge was selecting which work mattered now.
 
-Decision Context
+---
+
+# Decision Context
 
 The project's central question changed.
 
@@ -227,30 +253,43 @@ Publication asked:
 
 This change altered nearly every operational decision.
 
-Lessons Learned
-Lesson 1
+---
+
+# Lessons Learned
+
+## Lesson 1
 
 Research success criteria do not automatically apply to publication.
 
-Lesson 2
+---
+
+## Lesson 2
 
 Publication is a distinct operational runtime.
 
-Lesson 3
+---
+
+## Lesson 3
 
 Question Selection can become more valuable than Question Expansion.
 
-Lesson 4
+---
+
+## Lesson 4
 
 Navigation assets may provide more publication value than additional theory.
 
-Lesson 5
+---
+
+## Lesson 5
 
 Completion requires boundaries.
 
 Without boundaries, publication may never occur.
 
-Final Observation
+---
+
+# Final Observation
 
 The project initially believed that publication would occur naturally after enough research.
 
@@ -262,4 +301,6 @@ Publication requires selection.
 
 The transition between those two modes became one of the most important observations produced by the project.
 
-The challenge was not creating enough mat
+The challenge was not creating enough material.
+
+The challenge was deciding when enough material already existed.
