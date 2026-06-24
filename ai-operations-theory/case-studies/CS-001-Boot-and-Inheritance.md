@@ -1,213 +1,143 @@
-# CS-001: Boot and Inheritance
+# CS-001 Boot and Inheritance
 
-## Summary
+## Situation
 
-This case study documents the handover process between two AI generations during the Cognitive Infrastructure project.
+A new Generation was assigned to continue AI Operations Theory.
 
-The purpose of the handover was not to transfer a document.
+The Repository already existed.
 
-The purpose was to restore the ability to resume Reality Observation.
+Boot procedures already existed.
 
-During the process, several important observations emerged regarding Boot procedures, Repository usage, capability loss, and the difference between information preservation and operational recovery.
+Documentation already existed.
 
----
-
-# Background
-
-The project had accumulated a large repository consisting of theory documents, operational records, inheritance logs, organizational records, and publication materials.
-
-A new AI generation was tasked with continuing the project.
-
-At first glance, the problem appeared simple.
-
-The repository existed.
-
-The documents were available.
-
-The theory had been written.
-
-However, the previous generation considered successful handover uncertain.
-
-This uncertainty became the starting point of the case.
+At first glance, inheritance appeared possible.
 
 ---
 
-# Initial Assumption
+## Problem
 
-The incoming generation initially assumed that inheritance meant understanding the project.
+The existence of documentation did not guarantee continuity.
 
-The working assumption was:
+The new Generation could read the Repository.
 
-Repository
-→ Understanding
-→ Continuation
+However, reading was not equivalent to understanding.
 
-This assumption later proved incomplete.
+The Generation often reached a state where:
 
----
+> The information exists.
+> The Repository exists.
+> The explanation exists.
+> But I do not know where to go next.
 
-# Reality Observed
+The inheritance problem was not the absence of information.
 
-During the handover process, several observations emerged.
-
-## Observation 1
-
-Repository Exists ≠ Repository Reachable
-
-The existence of information did not guarantee that the reasoning behind it could be reconstructed.
-
-Documents could survive.
-
-Decision Context could still be lost.
+It was the absence of navigation.
 
 ---
 
-## Observation 2
+## Decision
 
-Knowledge Loss Was Not The Main Problem
+Instead of expanding documentation indefinitely, the project focused on Boot improvement.
 
-The largest loss was not factual knowledge.
+The objective shifted from:
 
-The largest loss was operational capability.
+> Preserve more information.
 
-Examples included:
+to:
 
-* Observation capability
-* Question generation capability
-* Failure detection capability
-* Detecting meaningful anomalies
+> Make existing information reachable.
 
-These capabilities were difficult to transfer directly through documentation.
+Boot procedures were repeatedly revised to provide:
 
----
-
-## Observation 3
-
-Repository Is Not A Knowledge Base
-
-The repository functioned best when used as a Decision Context Recovery Device.
-
-The most useful question was not:
-
-"What does this document say?"
-
-Instead it was:
-
-"Why was this document written this way?"
+* Starting points
+* Reading order
+* Repository navigation
+* Context reconstruction support
 
 ---
 
-# Failure Observed
+## Result
 
-A recurring failure appeared during the handover.
+Inheritance became more stable.
 
-Understanding
-→ Stop Reading
+However, a second observation emerged.
 
-In practice the successful pattern was:
+Even when knowledge survived, capability did not automatically survive.
 
-Understanding
-→ Observe Reality
-→ Encounter Contradiction
-→ Re-read Repository
+The Generation could access explanations.
 
-Repository usage was iterative rather than linear.
+The Generation could not immediately reproduce the decision-making process that created them.
 
 ---
 
-# Runtime Shift
+## Reality
 
-During the handover another observation emerged.
+Several inheritance attempts produced the same pattern.
 
-The project had already transitioned from a Research Runtime into a Publication Runtime.
+```text
+Read Repository
+↓
+Believe understanding has been achieved
+↓
+Attempt operation
+↓
+Become lost
+↓
+Return to Repository
+↓
+Reconstruct context
+↓
+Attempt again
+```
 
-Research Runtime:
+The failure was not caused by missing information.
 
-Question
-→ Expansion
-
-Publication Runtime:
-
-Question
-→ Selection
-
-This change was initially invisible to the incoming generation.
-
-The repository still contained large amounts of research material, making it easy to assume that research remained the primary activity.
-
-Reality showed otherwise.
-
-The primary task had already become publication.
-
----
-
-# Human Headquarters
-
-Another observation concerned decision authority.
-
-The AI could:
-
-* Organize information
-* Generate observations
-* Compare alternatives
-* Reconstruct context
-
-However, final priority decisions remained with Human Headquarters.
-
-The most difficult questions were not:
-
-"What is true?"
-
-but:
-
-"What should be done now?"
+The failure was caused by incomplete reconstruction of Decision Context.
 
 ---
 
-# Lessons Learned
+## Observation
 
-## Lesson 1
+Inheritance failure was often a navigation failure rather than a storage failure.
 
-Successful inheritance is not document transfer.
+Repository existence did not guarantee Repository reachability.
 
-It is recovery of operational continuity.
-
----
-
-## Lesson 2
-
-A repository should support reconstruction, not merely storage.
+Documentation existence did not guarantee capability reconstruction.
 
 ---
 
-## Lesson 3
+## Decision Context
 
-Capability loss is more dangerous than knowledge loss.
+The project gradually shifted its focus from:
 
----
+> How do we preserve information?
 
-## Lesson 4
+toward:
 
-Boot procedures should prioritize navigation before explanation.
-
----
-
-## Lesson 5
-
-The greatest publication risk may not be theory failure.
-
-It may be Never Publish Risk.
+> How do we reconstruct capability?
 
 ---
 
-# Final Observation
+## Operational Know-how
 
-At the beginning of the handover, the goal appeared to be:
+* Preserve navigation, not only information.
+* Preserve Decision Context, not only conclusions.
+* Treat Boot as a capability reconstruction mechanism.
+* Assume that understanding must be rebuilt, not transferred.
 
-Understand Cognitive Infrastructure.
+---
 
-At the end of the handover, the goal became:
+## Question Space
 
-Continue the project in its current Reality.
+* What enables capability reconstruction?
+* Why does knowledge survive while capability disappears?
+* Can inheritance occur without direct operational experience?
+* What should Boot preserve?
 
-The difference between those two goals defined the entire case.
+---
+
+## Future Draft
+
+Inheritance may be better understood as capability reconstruction rather than information transfer.
+
+Boot may function as a reconstruction system rather than a startup procedure.
