@@ -1,306 +1,153 @@
-# CS-006: Research to Publication
+# CS-006 Research to Publication
 
-## Summary
+## Situation
 
-This case study documents a transition that emerged during the development of Cognitive Infrastructure and AI Operations Theory.
+AI Operations Theory originated as a research activity.
 
-The project began as a research effort.
+The project focused on observation, discussion, theory development, and repository evolution.
 
-Its primary activity was observation and theory generation.
+For a long period, the primary objective was:
 
-Over time, however, the project entered a different operational state.
+> Expand Question Space.
 
-Publication.
-
-The transition was subtle.
-
-At first, it appeared that research was simply continuing.
-
-In reality, the nature of the work had fundamentally changed.
-
-This case documents that transition and the operational consequences that followed.
+As the project matured, publication became a realistic possibility.
 
 ---
 
-# Background
+## Problem
 
-For a long period, the project operated primarily as a research program.
+The skills required for research were not identical to those required for publication.
 
-The repository expanded continuously.
-
-New observations appeared regularly.
-
-New concepts were generated.
-
-Question Space grew.
-
-This mode of operation was highly productive.
-
-Research progress was often measured by the number and quality of new questions.
-
----
-
-# Research Runtime
-
-During the research phase, the dominant pattern was:
-
-Question
-→ Expansion
-
-The appearance of new questions was considered a success.
-
-Examples included:
+Research encouraged continuous expansion:
 
 * New observations
 * New concepts
-* New theoretical connections
+* New questions
 * New case studies
 
-The repository evolved through continuous exploration.
+Publication required a different capability:
 
-In this environment, growth was generally positive.
+* Selection
+* Prioritization
+* Scope definition
+* Closure
 
-More questions meant more opportunities for discovery.
+The project gradually encountered a new problem:
 
----
+> Everything seemed worth preserving.
 
-# Initial Assumption
-
-When publication work began, an important assumption remained unchanged.
-
-The assumption was:
-
-Continue Research
-→ Improve Publication
-
-At first glance this appeared reasonable.
-
-More research should produce a better result.
-
-Reality suggested otherwise.
+As a result, publication was repeatedly postponed.
 
 ---
 
-# Reality Observed
+## Decision
 
-## Observation 1
+The project shifted from:
 
-Publication introduced different constraints.
+> Question Expansion
 
-Research rewards exploration.
+toward:
 
-Publication rewards communication.
+> Question Selection
 
-These are not identical goals.
+The objective was no longer to generate every possible observation.
 
-A concept may be interesting without being necessary.
+The objective became identifying which observations were necessary for a coherent public release.
 
-A question may be valuable without belonging in the current publication.
-
----
-
-## Observation 2
-
-The repository was already large enough.
-
-At the time of observation, the repository contained:
-
-* A complete theoretical structure
-* Multiple major sections
-* Supporting concepts
-* Diagrams
-* Glossaries
-* Operational records
-
-The primary limitation was no longer theory generation.
-
-The limitation was presentation.
+Questions that remained valuable but were not essential to the current release were deferred to future repository assets.
 
 ---
 
-## Observation 3
+## Result
 
-Navigation became more important than expansion.
+Publication became achievable.
 
-As publication approached, increasing effort was spent on:
+However, a new observation emerged.
 
-* README design
-* Glossaries
-* Diagrams
-* Structure refinement
-* Reader guidance
+The challenge was not a lack of material.
 
-These activities rarely generated new theory.
+The challenge was an excess of material.
 
-Yet they produced substantial publication value.
+The project did not struggle to find ideas.
+
+The project struggled to stop generating them.
 
 ---
 
-# Discovery of Publication Runtime
+## Reality
 
-A critical observation emerged.
+During the publication phase, a recurring pattern appeared.
 
-Publication was not the final stage of research.
+```text
+Observation
+↓
+New Question
+↓
+Related Question
+↓
+Additional Case
+↓
+Potential Revision
+↓
+Publication Delay
+```
 
-Publication was a different runtime.
+The repository continued to grow even while publication work was underway.
 
-Research Runtime:
-
-Question
-→ Expansion
-
-Publication Runtime:
-
-Question
-→ Selection
-
-This distinction became increasingly important.
-
----
-
-# Failure Observed
-
-A recurring failure pattern emerged.
-
-Research Logic
-→ Applied To Publication
-
-The result was:
-
-Question
-→ Expansion
-→ Expansion
-→ Expansion
-
-Publication scope continued to grow.
-
-Completion became increasingly difficult.
+In several cases, work intended to finalize the project generated additional work instead.
 
 ---
 
-# Never Publish Risk
+## Observation
 
-This failure eventually became recognizable.
+Research and publication operate under different optimization criteria.
 
-Typical symptoms included:
+Research rewards expansion.
 
-* One more chapter
-* One more diagram
-* One more concept
-* One more case study
+Publication rewards selection.
 
-Each addition could be justified individually.
-
-Collectively, they prevented publication.
-
-The repository improved continuously.
-
-The publication never arrived.
+The transition between these modes created significant operational friction.
 
 ---
 
-# Navigation Layer
+## Decision Context
 
-Another important observation appeared during this phase.
+The project gradually adopted the following principle:
 
-The highest-value assets increasingly became:
+> Not every valuable observation belongs in the current publication.
 
-* README files
-* Glossaries
-* Diagrams
-* Introductions
-* Navigation structures
+Repository preservation and publication are not identical goals.
 
-These assets did not primarily increase knowledge.
+Publication requires boundaries.
 
-They increased reachability.
-
-The bottleneck shifted from theory creation to reader access.
+Repository evolution does not.
 
 ---
 
-# Human Headquarters
+## Operational Know-how
 
-Publication also increased the importance of priority decisions.
-
-Many valuable activities remained available.
-
-Examples included:
-
-* Further theory refinement
-* Additional case studies
-* Diagram improvement
-* Translation work
-* Publication preparation
-
-The challenge was no longer identifying useful work.
-
-The challenge was selecting which work mattered now.
+* Distinguish research mode from publication mode.
+* Treat publication as a selection process rather than an expansion process.
+* Preserve future questions without requiring immediate integration.
+* Avoid assuming that repository completeness is a prerequisite for publication.
+* Recognize that publication delay can emerge from excessive generation rather than insufficient progress.
 
 ---
 
-# Decision Context
+## Question Space
 
-The project's central question changed.
-
-Research asked:
-
-"What else can be discovered?"
-
-Publication asked:
-
-"What must remain?"
-
-This change altered nearly every operational decision.
+* When should Question Expansion stop?
+* How much incompleteness is acceptable for publication?
+* What should remain in the Repository rather than the publication?
+* Can publication itself become a form of Reality Observation?
+* How should organizations transition from research mode to publication mode?
 
 ---
 
-# Lessons Learned
+## Future Draft
 
-## Lesson 1
+Publication may represent a distinct operational environment rather than a final stage of research.
 
-Research success criteria do not automatically apply to publication.
+The transition from Question Expansion to Question Selection may be a recurring pattern in long-term cognitive and organizational projects.
 
----
-
-## Lesson 2
-
-Publication is a distinct operational runtime.
-
----
-
-## Lesson 3
-
-Question Selection can become more valuable than Question Expansion.
-
----
-
-## Lesson 4
-
-Navigation assets may provide more publication value than additional theory.
-
----
-
-## Lesson 5
-
-Completion requires boundaries.
-
-Without boundaries, publication may never occur.
-
----
-
-# Final Observation
-
-The project initially believed that publication would occur naturally after enough research.
-
-Reality suggested a different conclusion.
-
-Research generates possibilities.
-
-Publication requires selection.
-
-The transition between those two modes became one of the most important observations produced by the project.
-
-The challenge was not creating enough material.
-
-The challenge was deciding when enough material already existed.
+This observation remains a Current Working Hypothesis and should be re-evaluated through future publication experiences.
