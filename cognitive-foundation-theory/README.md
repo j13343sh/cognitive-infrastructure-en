@@ -2,7 +2,7 @@
 
 Cognitive Infrastructure Theory is a Current Working Draft that explores the foundational structures underlying cognitive activities.
 
-![Cognitive Infrastructure Theory Architecture](figures/Cognitive-Infrastructure-Theory-Architecture.png)
+![Cognitive Infrastructure Theory Architecture](figures/cognitive-infrastructure-theory-integrated-overview.png)
 
 ## Current Status
 
