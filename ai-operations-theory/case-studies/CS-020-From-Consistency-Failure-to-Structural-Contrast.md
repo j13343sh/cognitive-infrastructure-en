@@ -48,6 +48,8 @@ Experience-oriented chapters became more exploratory and reflective.
 
 Instead of appearing inconsistent, the transitions began to reinforce the progression of the overall narrative.
 
+Due to context window limitations, the manuscript was developed through multiple successive collaborative runtimes rather than a single continuous session.
+
 ---
 
 ## Decision Context
@@ -89,5 +91,16 @@ During the collaborative development of **Cognitive Infrastructure Theory**, com
 Under the operational constraints of long-term Human–AI collaboration, preserving structural coherence while allowing limited stylistic variation produced a more natural reading experience than exhaustive stylistic normalization.
 
 This observation is currently limited to the development process of *Cognitive Infrastructure Theory*.
+
+Although clear stylistic differences were observed, multiple operational variables changed simultaneously during development, including:
+
+* Human Headquarters operational experience,
+* editorial role,
+* and runtime generation within the collaborative inheritance process.
+
+Consequently, the individual contribution of each factor could not be isolated.
+
+Further observations across additional collaborative writing projects are required before generalizing this observation.
+
 
 Further observations across additional collaborative writing projects are required before generalizing this observation.
