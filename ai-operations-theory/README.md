@@ -24,11 +24,12 @@ as core subjects of observation.
 
 ## Current Status
 
-The Japanese edition is currently the canonical version of AI Operations Theory.
+The Japanese edition is currently the canonical published edition of AI Operations Theory.
 
-English PDF editions are under preparation.
+The English repository currently provides research overviews, articles, figures, and operational case studies for international readers.
 
-The English repository currently serves as the primary location for operational case studies and ongoing international development.
+A complete English PDF edition is not currently available.
+
 
 ## Main Themes
 
@@ -61,7 +62,7 @@ AI Operations Theory is a framework for operating decisions, records, restartabi
 
 ## Repository Structure
 
-* PDF (coming soon)
+* PDF
 * figures
 * articles
 * case-studies (English repository)
