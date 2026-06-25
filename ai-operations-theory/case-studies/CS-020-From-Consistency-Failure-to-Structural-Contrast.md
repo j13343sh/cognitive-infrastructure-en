@@ -2,6 +2,8 @@
 
 ## Summary
 
+This case documents an observation made during the collaborative development of **Cognitive Infrastructure Theory**.
+
 A single, unified writing style was originally intended for the publication.
 
 However, due to context window limitations and the necessity of using multiple AI collaboration threads, complete stylistic consistency proved impractical.
@@ -16,11 +18,13 @@ This resulted in a publication whose changes in tone naturally reflected changes
 
 ## Background
 
-The original editorial goal was to produce a manuscript that appeared to have been written by a single author.
+During the development of **Cognitive Infrastructure Theory**, the editorial goal was to produce a manuscript that appeared to have been written by a single author.
 
 Contributors were instructed to follow an existing writing rhythm and stylistic direction.
 
 In practice, however, each collaborative runtime developed slightly different characteristics despite receiving similar guidance.
+
+Some contributors had participated in long-term Human Headquarters operations, while others had not.
 
 Attempts to completely normalize these differences required disproportionate editorial effort and often reduced the natural flow of the text.
 
@@ -32,11 +36,11 @@ Three distinct writing tendencies gradually emerged.
 
 * AI contributors without Human Headquarters operational experience tended to produce highly structured, definition-oriented writing with a relatively uniform rhythm.
 
-* Human Headquarters operational contributors naturally produced writing containing more questions, reflective transitions, and stronger Reality-oriented narrative flow.
+* AI contributors with Human Headquarters operational experience naturally produced writing containing more questions, reflective transitions, and stronger Reality-oriented narrative flow.
 
 * Final editorial work focused less on rewriting individual paragraphs and more on organizing the different writing styles into a coherent overall structure.
 
-As editing progressed, the stylistic differences increasingly aligned with the thematic progression of the book.
+As editing progressed, the stylistic differences increasingly aligned with the thematic progression of *Cognitive Infrastructure Theory*.
 
 Theoretical chapters became calmer and more systematic.
 
@@ -80,9 +84,10 @@ The final structure emerged not from perfect uniformity, but from coordinated va
 
 ## Working Observation
 
-When multiple AI contributors participate in a long-term publication, complete stylistic consistency may not always be the optimal objective.
+During the collaborative development of **Cognitive Infrastructure Theory**, complete stylistic consistency did not produce the best editorial outcome.
 
-Under certain operational constraints, preserving structural coherence while allowing limited stylistic variation can produce a more natural reading experience than exhaustive stylistic normalization.
+Under the operational constraints of long-term Human–AI collaboration, preserving structural coherence while allowing limited stylistic variation produced a more natural reading experience than exhaustive stylistic normalization.
+
+This observation is currently limited to the development process of *Cognitive Infrastructure Theory*.
 
 Further observations across additional collaborative writing projects are required before generalizing this observation.
-
