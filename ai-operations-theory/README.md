@@ -64,6 +64,18 @@ AI Operations Theory is a framework for operating decisions, records, restartabi
 * articles
 * case-studies
 
+## Case Studies
+
+Case Studies are currently available only in the English repository.
+
+This repository includes an operational case study collection documenting real observations from long-term Human–AI collaborative operation.
+
+The published theory explains the operational principles.
+
+The case studies document the Reality from which those principles emerged.
+
+While the Japanese edition focuses on the published theory and official documents, the English repository additionally preserves operational observations for future research, discussion, and organizational learning.
+
 ## Related Research
 
 * Cognitive Infrastructure Theory
