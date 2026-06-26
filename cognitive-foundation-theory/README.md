@@ -82,7 +82,7 @@ Whether this observation generalizes beyond Pilot-001 remains an open question f
 
 ## Related Repositories
 
-- ⚙️ [AI Operations Theory](../ai-operations-theory/)
+- ⚙️ [AI Operations Theory](../ai-operations-theory)
 - 🏠 [Project Home](../README.md)
 
 ## Related Research
