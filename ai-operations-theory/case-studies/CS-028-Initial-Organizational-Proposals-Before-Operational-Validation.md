@@ -165,9 +165,14 @@ These observations could not have been predicted from organizational diagrams al
 
 They emerged only after actual operation began.
 
+None of the proposed organizational structures were abandoned because they were conceptually incorrect.
+
+Instead, they were gradually simplified as operational experience revealed the practical limits of long-term coordination.
+
 ---
 
 ## Decision Context
+
 
 The purpose of Pilot-001 was therefore not simply to test AI operation.
 
