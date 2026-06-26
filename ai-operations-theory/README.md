@@ -158,8 +158,8 @@ Whether this tendency is reproducible beyond this repository remains unknown.
 
 ## Related Repositories
 
-* 📘 [Cognitive Infrastructure Theory](../cognitive-infrastructure-theory)
-* 🏠 [Project Home](..)
+* 📘 [Cognitive Infrastructure Theory](../cognitive-infrastructure-theory/)
+* 🏠 [Project Home](../README.md)
 
 ## Related Research
 
