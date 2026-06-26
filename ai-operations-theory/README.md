@@ -56,6 +56,31 @@ A complete English PDF edition is not currently available.
 * What role does Human Headquarters play?
 * How can humans and AI sustain dialogue with reality?
 
+## Hallucinations and Brainstorming
+
+AI Operations Theory does not regard hallucinations themselves as desirable.
+
+However, it also avoids assuming that every unexpected output should be discarded immediately.
+
+A well-known historical example is the discovery of penicillin. A contaminated culture plate could simply have been discarded as a failed experiment. Instead, it became an Observation. The unexpected result was investigated, verified against reality, and eventually led to one of the most significant medical discoveries in history.
+
+AI hallucinations should be treated in the same manner.
+
+A hallucination is not evidence.
+
+Neither is it necessarily meaningless.
+
+The important question is not whether an unexpected output should be accepted.
+
+The important question is whether it should first become a **Reality Observation**.
+
+Only after observation and verification should a Decision be made.
+
+For this reason, AI Operations Theory explores whether hallucinations can contribute to brainstorming—not because they are reliable, but because unexpected outputs may occasionally generate observations worth investigating.
+
+Reality, not the hallucination itself, remains the final authority.
+
+
 ## One-Line Summary
 
 AI Operations Theory is a framework for operating decisions, records, restartability, and inheritance so that humans and AI can sustain dialogue with reality.
