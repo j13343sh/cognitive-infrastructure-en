@@ -149,6 +149,18 @@ At the time, this question remained largely unanswered.
 
 ---
 
+## Operational Problem
+
+The project gradually realized that the central problem was no longer organizational completeness.
+
+It was operational feasibility.
+
+The question became:
+
+> Which organizational structure can actually be operated by Human Headquarters over the long term?
+
+---
+
 ## Operational Reality
 
 Pilot-001 later revealed that the organizational charts described responsibilities, but not operational cost.
