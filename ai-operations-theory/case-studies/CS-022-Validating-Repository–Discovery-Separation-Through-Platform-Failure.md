@@ -61,7 +61,7 @@ Subsequently, multiple platform failures were observed, including:
 * Appeal without response
 * Community-not-found errors
 
-These failures affected publication visibility rather than the research itself.
+These observations affected the Discovery Layer rather than the Repository itself.
 
 Throughout the incident, the Repository remained fully operational.
 
