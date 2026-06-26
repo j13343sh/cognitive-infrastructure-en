@@ -30,8 +30,8 @@ The Japanese editions are currently the canonical versions of both theories.
 [Japanese Version](https://github.com/j13343sh/cognitive-infrastructure-jp)
 
 ## Related Repositories
-- 📘 [Cognitive Infrastructure Theory](../cognitive-infrastructure-theory)
-- ⚙️ [AI Operations Theory](../ai-operations-theory)
+- 📘 [Cognitive Infrastructure Theory](cognitive-infrastructure-theory)
+- ⚙️ [AI Operations Theory](ai-operations-theory)
 
 ## Origin of Research
 
