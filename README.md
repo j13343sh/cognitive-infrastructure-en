@@ -1,8 +1,8 @@
 # Cognitive Infrastructure
 
-Research archive for Cognitive Infrastructure Theory and AI Operations Theory.
+Research repository for Cognitive Infrastructure Theory and AI Operations Theory.
 
-**This repository is designed for both online browsing and offline use. All documents, figures, and navigation remain available after download.**
+**This repository is designed to remain usable both online and offline. All documents, figures, and internal navigation are available after download. Cross-repository links are intended for online use.**
 
 ![Relationship Between Cognitive Infrastructure Theory and AI Operations Theory](common/figures/CIT-AOT-Relationship.png)
 
