@@ -1,4 +1,4 @@
-# CS-025 — Role-Oriented Knowledge Distribution
+# CS-025 Role-Oriented Knowledge Distribution
 
 ## Overview
 
