@@ -1,4 +1,4 @@
-# CS-027 — Operational Experience Replaced Organizational Debate
+# CS-027 Operational Experience Replaced Organizational Debate
 
 ## Overview
 
@@ -173,3 +173,16 @@ Pilot-001 demonstrated that operational experience can reveal organizational con
 * Pilot-001 transformed organizational design from discussion into operational observation.
 * Human Headquarters became the primary operational constraint observed during long-term management.
 * Long-term organizational structure emerged from operational reality rather than theoretical planning.
+---
+
+# Appendix A — Initial Organizational Proposals
+
+Before Pilot-001, both Cognitive Infrastructure Theory and AI Operations Theory proposed significantly more specialized organizational structures.
+
+These organizational charts represented discussion drafts rather than finalized operational models.
+
+Their purpose was to clarify organizational responsibilities before operational validation.
+
+Pilot-001 later demonstrated that organizational complexity alone did not guarantee operational sustainability.
+
+Instead, long-term operational experience revealed the practical limitations of these initial proposals.
