@@ -82,7 +82,7 @@ Whether this observation generalizes beyond Pilot-001 remains an open question f
 
 ## Related Research
 
-* [AI Operations Theory](../ai-operations-theory/README.md)
+* [AI Operations Theory](../ai-operations-theory)
 
 While Cognitive Infrastructure Theory observes and organizes cognitive activities, AI Operations Theory focuses on how those activities can be operated, maintained, and inherited across time.
 
