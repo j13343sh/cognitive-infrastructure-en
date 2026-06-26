@@ -133,6 +133,8 @@ The knowledge system did not.
 
 The incident therefore demonstrated that separating Repository from Discovery significantly improves operational resilience.
 
+The resilience demonstrated during this incident was possible because the repository had already evolved into a mature research asset through long-term operational growth (see CS-026).
+
 ---
 
 ## Working Observation
