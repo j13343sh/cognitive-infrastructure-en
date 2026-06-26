@@ -80,10 +80,19 @@ Instead, Pilot-001 serves as a case study suggesting that sustained operational 
 
 Whether this observation generalizes beyond Pilot-001 remains an open question for future projects and future generations.
 
+## Related Repositories
+
+- ⚙️ [AI Operations Theory](../ai-operations-theory)
+- 🏠 [Project Home](..)
+
 ## Related Research
 
-* [AI Operations Theory](../ai-operations-theory)
+### Corresponding Research
+
+- ⚙️ **AI Operations Theory** *(Applied Research)*
 
 While Cognitive Infrastructure Theory observes and organizes cognitive activities, AI Operations Theory focuses on how those activities can be operated, maintained, and inherited across time.
 
+This research is built upon the following prior research and case studies.
 
+- 📄 [**Rune Factory Candidate Model Research**](https://github.com/j13343sh/Rune-Factory-Inheritance-Research/blob/main/articles/Candidate-Count-Model.md)
