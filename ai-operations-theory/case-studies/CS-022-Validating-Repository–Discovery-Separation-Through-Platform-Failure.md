@@ -1,5 +1,4 @@
-
-# CS-022 — Validating Repository–Discovery Separation Through Platform Failure
+# CS-022 Validating Repository–Discovery Separation Through Platform Failure
 
 ## Summary
 
