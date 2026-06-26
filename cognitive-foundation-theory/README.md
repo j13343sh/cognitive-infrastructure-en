@@ -51,12 +51,6 @@ Cognitive Infrastructure Theory is a framework for observing, organizing, and un
 * figures
 * articles
 
-## Related Research
-
-* AI Operations Theory
-
-While Cognitive Infrastructure Theory observes and organizes cognitive activities, AI Operations Theory focuses on how those activities can be operated, maintained, and inherited across time.
-
 ## Open Question: Does Operational Experience Change AI-Generated Writing?
 
 An interesting observation emerged during Pilot-001.
@@ -85,3 +79,11 @@ This repository does **not** claim that operational experience inherently change
 Instead, Pilot-001 serves as a case study suggesting that sustained operational experience may influence the characteristics of AI-generated documents.
 
 Whether this observation generalizes beyond Pilot-001 remains an open question for future projects and future generations.
+
+## Related Research
+
+* AI Operations Theory
+
+While Cognitive Infrastructure Theory observes and organizes cognitive activities, AI Operations Theory focuses on how those activities can be operated, maintained, and inherited across time.
+
+
