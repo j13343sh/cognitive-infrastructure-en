@@ -1,4 +1,4 @@
-# CS-026 — When Operations Produced a Research Repository
+# CS-026 When Operations Produced a Research Repository
 
 ## Overview
 
