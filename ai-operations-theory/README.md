@@ -156,8 +156,21 @@ Operational experience may not simply increase expressive intensity. It may also
 
 Whether this tendency is reproducible beyond this repository remains unknown.
 
+## Related Repositories
+
+* 📘 [Cognitive Infrastructure Theory](../cognitive-infrastructure-theory)
+* 🏠 [Project Home](..)
+
 ## Related Research
 
-* [Cognitive Infrastructure Theory](../cognitive-foundation-theory)
+### Corresponding Research
+
+* 📘 **Cognitive Infrastructure Theory** *(Foundational Research)*
 
 While Cognitive Infrastructure Theory is a foundational research framework that observes and organizes cognitive activities, AI Operations Theory is positioned as a practical research framework focused on operating, maintaining, and inheriting those activities.
+
+This research is built upon the following prior research and case studies.
+
+* 📄 [**Rune Factory Candidate Model Research**](https://github.com/j13343sh/Rune-Factory-Inheritance-Research/blob/main/articles/Candidate-Count-Model.md)
+
+
