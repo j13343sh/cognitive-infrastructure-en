@@ -2,6 +2,8 @@
 
 Research archive for Cognitive Infrastructure Theory and AI Operations Theory.
 
+**This repository is designed for both online browsing and offline use. All documents, figures, and navigation remain available after download.**
+
 ![Relationship Between Cognitive Infrastructure Theory and AI Operations Theory](common/figures/CIT-AOT-Relationship.png)
 
 This theory originated from long-term empirical research into Rune Factory mechanics and later expanded into a broader framework for knowledge organization and AI collaboration.
