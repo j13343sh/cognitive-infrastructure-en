@@ -175,7 +175,7 @@ Pilot-001 demonstrated that operational experience can reveal organizational con
 * Long-term organizational structure emerged from operational reality rather than theoretical planning.
 ---
 
-# Appendix A — Initial Organizational Proposals
+# Appendix A Initial Organizational Proposals
 
 Before Pilot-001, both Cognitive Infrastructure Theory and AI Operations Theory proposed significantly more specialized organizational structures.
 
