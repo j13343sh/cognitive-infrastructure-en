@@ -107,8 +107,57 @@ The case studies document the Reality from which those principles emerged.
 
 While the Japanese edition focuses on the published theory and official documents, the English repository additionally preserves operational observations for future research, discussion, and organizational learning.
 
+## Open Question: Does Operational Experience Influence AI-Generated Writing?
+
+During the development of this repository, an interesting observation emerged.
+
+Different sections of the document were written by AI after different operational experiences. Some generations had actually participated in organizational operation (for example, serving as Human Headquarters), while others had not.
+
+Differences appeared to emerge in areas such as:
+
+- Narrative rhythm
+- Operational realism
+- Decision-oriented explanations
+- The treatment of failures and uncertainty
+
+At present, the primary cause of these differences remains unknown.
+
+Possible contributing factors include:
+
+- Actual operational experience
+- Repository inheritance across generations
+- Accumulated Decision Context
+- Editorial integration
+- Other unknown factors
+
+One editorial principle adopted during this project was distinguishing between **what should be included in the main text** and **what should be preserved as operational records**.
+
+The main text was intentionally restrained to explain the operational framework itself. More detailed operational experiences, failures, discussions, and generation-specific observations were instead preserved as case studies or repository assets.
+
+Whether this editorial separation also influences the characteristics of AI-generated writing remains an open question.
+
+This repository does **not** claim that operational experience inherently changes AI-generated writing.
+
+Rather, this repository preserves a single operational case suggesting that sustained operational experience may influence how AI-generated documents are ultimately expressed.
+
+This observation is intentionally preserved as an open question rather than a conclusion. Reality should take precedence over Theory.
+
+### Additional Observation
+
+An additional observation emerged during the development of this repository.
+
+One generation that had extensive operational experience was responsible for writing the main operational theory. Contrary to our initial expectation, the resulting text was not dramatically more emotional or verbose.
+
+Instead, later generations with similar operational experience remarked that the author had likely exercised considerable restraint, despite having many additional operational experiences that could have been included.
+
+This suggests another open question.
+
+Operational experience may not simply increase expressive intensity. It may also influence editorial judgment, including the conscious decision of what **not** to include in the main text.
+
+Whether this tendency is reproducible beyond this repository remains unknown.
+
 ## Related Research
 
-* Cognitive Infrastructure Theory
+* [Cognitive Infrastructure Theory](https://github.com/j13343sh/cognitive-infrastructure-en/tree/main/cognitive-foundation-theory)
 
 While Cognitive Infrastructure Theory is a foundational research framework that observes and organizes cognitive activities, AI Operations Theory is positioned as a practical research framework focused on operating, maintaining, and inheriting those activities.
