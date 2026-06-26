@@ -158,6 +158,6 @@ Whether this tendency is reproducible beyond this repository remains unknown.
 
 ## Related Research
 
-* [Cognitive Infrastructure Theory](https://github.com/j13343sh/cognitive-infrastructure-en/tree/main/cognitive-foundation-theory)
+* [Cognitive Infrastructure Theory](../cognitive-foundation-theory)
 
 While Cognitive Infrastructure Theory is a foundational research framework that observes and organizes cognitive activities, AI Operations Theory is positioned as a practical research framework focused on operating, maintaining, and inheriting those activities.
