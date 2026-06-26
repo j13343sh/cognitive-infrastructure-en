@@ -55,7 +55,7 @@ Cognitive Infrastructure Theory is a framework for observing, organizing, and un
 
 The operational case studies related to this repository are documented in the companion project:
 
-- ⚙️ [AI Operations Theory](../)
+- ⚙️ [AI Operations Theory](../ai-operations-theory/case-studies)
 
 That repository documents observations obtained through Pilot-001 and other operational experiments.
 
