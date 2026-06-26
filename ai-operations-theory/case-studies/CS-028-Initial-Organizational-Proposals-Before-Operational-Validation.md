@@ -1,4 +1,4 @@
-# CS-028 — Initial Organizational Proposals Before Operational Validation
+# CS-028 Initial Organizational Proposals Before Operational Validation
 
 ## Overview
 
