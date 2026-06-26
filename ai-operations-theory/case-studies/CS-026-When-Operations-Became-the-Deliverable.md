@@ -1,4 +1,4 @@
-# CS-026 When Operations Produced a Research Repository
+# CS-026 — When Operations Produced a Research Repository
 
 ## Overview
 
@@ -95,6 +95,24 @@ Every new artifact originated from a specific operational need rather than a pre
 
 ---
 
+## Operational Validation
+
+The long-term value of the repository became apparent after the project's primary discovery platform experienced repeated failures.
+
+Although publication through Reddit became unavailable, the repository itself remained fully operational.
+
+No research assets were lost.
+
+No restructuring of the repository was required.
+
+Only the discovery pathway changed.
+
+This operational experience later became the basis of **CS-022 — Validating Repository–Discovery Separation Through Platform Failure**.
+
+The incident demonstrated that the repository had already evolved into an independent operational asset rather than remaining merely a collection of supporting documents.
+
+---
+
 ## Key Insight
 
 The repository was not the project's initial objective.
@@ -104,6 +122,8 @@ It became the project's natural deliverable.
 Long-term AI operations produced not only research results, but also the operational infrastructure required to preserve, navigate, and expand those results.
 
 The repository therefore evolved alongside the research itself.
+
+Its operational value became fully visible only after the discovery layer failed.
 
 ---
 
@@ -115,6 +135,8 @@ Operational knowledge, navigation structures, validation materials, and document
 
 Repository growth should therefore be viewed as an operational outcome rather than a documentation task.
 
+CS-022 later validated the resilience of this repository architecture under real operational failure.
+
 ---
 
 ## Key Takeaways
@@ -123,4 +145,5 @@ Repository growth should therefore be viewed as an operational outcome rather th
 * Repository growth emerged from repeated operational needs.
 * Documentation evolved incrementally rather than through comprehensive planning.
 * The repository itself became a primary project deliverable.
+* The repository later demonstrated its operational value when the discovery layer failed (see CS-022).
 * Long-term AI operations can produce reusable research infrastructure in addition to research results.
