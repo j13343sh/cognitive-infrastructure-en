@@ -4,6 +4,8 @@ Research archive for Cognitive Infrastructure Theory and AI Operations Theory.
 
 ![Relationship Between Cognitive Infrastructure Theory and AI Operations Theory](common/figures/CIT-AOT-Relationship.png)
 
+This theory originated from long-term empirical research into Rune Factory mechanics and later expanded into a broader framework for knowledge organization and AI collaboration.
+
 ## Overview
 
 Cognitive Infrastructure Theory is a foundational research framework that observes and organizes cognitive activities.
