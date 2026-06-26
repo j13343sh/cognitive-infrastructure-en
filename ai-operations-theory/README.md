@@ -80,6 +80,9 @@ For this reason, AI Operations Theory explores whether hallucinations can contri
 
 Reality, not the hallucination itself, remains the final authority.
 
+This does not mean hallucinations are valuable.
+
+It means they should not always be discarded before observation.
 
 ## One-Line Summary
 
