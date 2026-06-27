@@ -41,3 +41,9 @@ The Japanese editions are currently the canonical versions of both theories.
 Cognitive Infrastructure Theory and AI Operations Theory originated from observations of inheritance, knowledge management, and operational structures conducted through the prior research project:
 
 [Rune Factory Inheritance Research](https://github.com/j13343sh/Rune-Factory-Inheritance-Research)
+
+## License
+
+This project is licensed under the CC BY-NC 4.0 License.
+
+See [LICENSE.md](LICENSE.md) for details.
