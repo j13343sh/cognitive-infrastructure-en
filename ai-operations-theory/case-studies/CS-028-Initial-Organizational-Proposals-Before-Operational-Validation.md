@@ -283,3 +283,17 @@ Together, they illustrate how theoretical organizational design evolved into ope
 * Human Headquarters emerged as the primary operational constraint.
 * Pilot-001 was introduced to validate organizational operation rather than organizational theory.
 * Long-term operational sustainability became more important than organizational specialization.
+
+## Supplement
+
+The observations presented in this case do not imply that highly specialized organizations are universally impractical.
+
+An organizational structure that exceeds the sustainable operational capacity of one Human Headquarters may remain entirely practical under different conditions, such as greater cognitive capacity, additional personnel, stronger supporting infrastructure, or distributed governance.
+
+The central observation is therefore not about organizational complexity itself.
+
+Rather, it concerns the relationship between organizational complexity and the operational capacity available to sustain it over time.
+
+As organizational complexity increases, the required capacity for coordination, context management, decision-making, and governance also increases.
+
+Organizational sustainability therefore depends not only on how responsibilities are divided, but also on whether sufficient operational capacity exists to support those divisions.
