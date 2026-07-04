@@ -4,6 +4,14 @@ Research archive for the operation, maintenance, and inheritance of cognitive ac
 
 ![AI Operations Theory Operational Cycle Model](figures/AI-Operations-Framework.png)
 
+**AI is a powerful tool.**
+
+Powerful tools offer great potential.
+
+At the same time, realizing that potential requires sound judgment, verification, and accountability.
+
+AI Operations Theory is a repository that explores operational methods through which humans and AI can sustain an ongoing dialogue with Reality.
+
 ## Overview
 
 AI Operations Theory is a research framework that studies how cognitive activities can be operated, maintained, and inherited through collaboration between humans and AI.
